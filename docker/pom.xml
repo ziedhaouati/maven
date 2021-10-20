@@ -1,0 +1,20 @@
+  <project> 
+   
+    <id>P001</id> 
+    <name>TestMaven</name> 
+    <currentVersion>1.0</currentVersion> 
+    <shortDescription>Test avec Maven</shortDescription> 
+   
+    <developers> 
+      <developer> 
+        <name>Jean Michel D.</name> 
+        <id>jmd</id> 
+        <email>jmd@test.fr</email> 
+      </developer> 
+    </developers>  
+   
+    <organization> 
+      <name>Jean-Michel</name> 
+    </organization>  
+   
+  </project>
